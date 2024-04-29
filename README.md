@@ -1,8 +1,13 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=wassup!;im+declined+lol;&center=true&size=35">
-  </a>
-</h1>
+![](https://komarev.com/ghpvc/?username=5gic&color=grey) 
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=5gic&abbreviated=true&style=for_the_badge">
+  <br>
+  <samp>
+    <b><a rel="nofollow noopener noreferrer" target="_blank">3874 on discord</a></b>.
+    <br>python,Golang,C#,C++</a></b>.<br>
+</samp>
+  <img src="https://cdn.discordapp.com/avatars/881229723055829012/a_52f479f5765b1259c0488711f49d1760.gif?size=80" width="200"/>
+</p>
+<p align="center">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5gic&layout=compact&theme=dark"<p align="center">
 </p>
