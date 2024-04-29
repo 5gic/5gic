@@ -4,5 +4,5 @@
   </a>
 </h1>
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=5gic&abbreviated=true">
+<img src="https://komarev.com/ghpvc/?username=5gic&abbreviated=true&style=for_the_badge">
 </p>
